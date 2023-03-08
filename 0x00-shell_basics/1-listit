@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls -1 | cut --fields=9 -d" ")
+ls -1 | cut --fields=9 -d" "
