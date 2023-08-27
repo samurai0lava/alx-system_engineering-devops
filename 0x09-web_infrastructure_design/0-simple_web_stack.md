@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/q6suxJ9)
+![alt text](0x09-web_infrastructure_design/web_infrastructure_task_1.PNG)
 
 
 # Simple Web Infrastructure
