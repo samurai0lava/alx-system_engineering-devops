@@ -1,4 +1,4 @@
-![My Remote Image](https://drive.google.com/file/d/1RfQ261wohyyph9Nib_nN-ptRMBxYy9nF/view?usp=sharing)
+[![web-infrastructure-task-1.png](https://i.postimg.cc/brLqq01m/web-infrastructure-task-1.png)](https://postimg.cc/xNkwRzxm)
 
 
 # Simple Web Infrastructure
