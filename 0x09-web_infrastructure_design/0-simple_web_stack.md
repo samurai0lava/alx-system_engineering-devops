@@ -1,4 +1,4 @@
-[![web-infrastructure-task-1.png](https://i.postimg.cc/brLqq01m/web-infrastructure-task-1.png)](https://postimg.cc/xNkwRzxm)
+[![web-design.png](https://i.postimg.cc/mk4n2t4k/web-design.png)](https://postimg.cc/tZrkBRYG)
 
 
 # Simple Web Infrastructure
