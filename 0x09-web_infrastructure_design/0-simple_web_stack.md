@@ -1,4 +1,4 @@
-![alt text](0x09-web_infrastructure_design/web_infrastructure_task_1.PNG)
+![My Remote Image](https://drive.google.com/file/d/1RfQ261wohyyph9Nib_nN-ptRMBxYy9nF/view?usp=sharing)
 
 
 # Simple Web Infrastructure
